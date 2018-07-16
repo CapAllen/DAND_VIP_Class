@@ -21,7 +21,7 @@
 
 ### 项目
 
-- P1 探索未来气候发展趋势：
+- P1 [探索未来气候发展趋势](https://github.com/CapAllen/DAND_VIP_Class/blob/master/%E9%A1%B9%E7%9B%AE/%E9%A1%B9%E7%9B%AE%E4%B8%80.md)
 - P2 探索美国共享单车数据：
 - P3 探索数据集：
 - P4 分析A/B测试结果：
@@ -33,6 +33,8 @@
 
 ### 拓展参考
 
-- 
-- 
+- [SQL Cookbook(中文版)](https://github.com/CapAllen/DAND_VIP_Class/blob/master/%E6%8B%93%E5%B1%95%E5%8F%82%E8%80%83/SQL.Cookbook(%E4%B8%AD%E6%96%87%E7%89%88).pdf)
+- [深入浅出数据分析](https://github.com/CapAllen/DAND_VIP_Class/blob/master/%E6%8B%93%E5%B1%95%E5%8F%82%E8%80%83/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.pdf)
+- [统计思维：程序员数学之概率统计](https://github.com/CapAllen/DAND_VIP_Class/blob/master/%E6%8B%93%E5%B1%95%E5%8F%82%E8%80%83/%E7%BB%9F%E8%AE%A1%E6%80%9D%E7%BB%B4%EF%BC%9A%E7%A8%8B%E5%BA%8F%E5%91%98%E6%95%B0%E5%AD%A6%E4%B9%8B%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1.pdf)
+- [Python for Data Analysis, 2nd Edition](https://github.com/CapAllen/DAND_VIP_Class/blob/master/%E6%8B%93%E5%B1%95%E5%8F%82%E8%80%83/Python%20for%20Data%20Analysis%2C%202nd%20Edition.pdf)
 
