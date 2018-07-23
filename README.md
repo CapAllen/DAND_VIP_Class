@@ -17,7 +17,7 @@
 ### 每周导学
 
 - [第一周](http://t.cn/RgtNtjB)
-- 第二周：
+- [第二周](https://github.com/CapAllen/DAND_VIP_Class/blob/master/%E6%AF%8F%E5%91%A8%E5%AF%BC%E5%AD%A6/%E7%AC%AC%E4%BA%8C%E5%91%A8.md)
 
 ### 项目
 
