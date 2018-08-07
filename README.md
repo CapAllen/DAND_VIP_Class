@@ -18,6 +18,9 @@
 
 - [第一周](http://t.cn/RgtNtjB)
 - [第二周](https://github.com/CapAllen/DAND_VIP_Class/blob/master/%E6%AF%8F%E5%91%A8%E5%AF%BC%E5%AD%A6/%E7%AC%AC%E4%BA%8C%E5%91%A8.md)
+- [第三周](http://www.capallen.top/dand-vip/2018/08/01/%E7%AC%AC%E4%B8%89%E5%91%A8%E5%AF%BC%E5%AD%A6/)
+- [第三周习题详解](http://www.capallen.top/dand-vip/2018/08/04/%E7%AC%AC%E4%B8%89%E5%91%A8%E4%B9%A0%E9%A2%98%E8%AF%A6%E8%A7%A3/)
+- [第四周](http://www.capallen.top/dand-vip/2018/08/06/%E7%AC%AC%E5%9B%9B%E5%91%A8%E5%AF%BC%E5%AD%A6/)
 
 ### 项目
 
