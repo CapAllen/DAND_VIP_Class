@@ -22,6 +22,8 @@
 - [第三周习题代码详解](http://www.capallen.top/dand-vip/2018/08/04/%E7%AC%AC%E4%B8%89%E5%91%A8%E4%B9%A0%E9%A2%98%E8%AF%A6%E8%A7%A3/)
 - [第四周](http://www.capallen.top/dand-vip/2018/08/06/%E7%AC%AC%E5%9B%9B%E5%91%A8%E5%AF%BC%E5%AD%A6/)
 - [第五周](http://www.capallen.top/dand-vip/2018/08/13/%E7%AC%AC%E4%BA%94%E5%91%A8%E5%AF%BC%E5%AD%A6/)
+- [每周导学-第六周-数据分析过程](http://www.capallen.top/dand-vip/2018/08/19/%E7%AC%AC%E5%85%AD%E5%91%A8-1-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E8%BF%87%E7%A8%8B/)
+- [每周导学-第六周导学-Pandas数据融合](http://www.capallen.top/dand-vip/2018/08/21/%E7%AC%AC%E5%85%AD%E5%91%A8-2-%E6%95%B0%E6%8D%AE%E8%9E%8D%E5%90%88/)
 
 ### 项目
 
