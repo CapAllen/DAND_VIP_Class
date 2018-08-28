@@ -24,7 +24,7 @@
 - [第五周](http://www.capallen.top/dand-vip/2018/08/13/%E7%AC%AC%E4%BA%94%E5%91%A8%E5%AF%BC%E5%AD%A6/)
 - [第六周-数据分析过程](http://www.capallen.top/dand-vip/2018/08/19/%E7%AC%AC%E5%85%AD%E5%91%A8-1-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E8%BF%87%E7%A8%8B/)
 - [第六周-Pandas数据融合](http://www.capallen.top/dand-vip/2018/08/21/%E7%AC%AC%E5%85%AD%E5%91%A8-2-%E6%95%B0%E6%8D%AE%E8%9E%8D%E5%90%88/)
-
+- [第七周-可视化](http://www.capallen.top/dand-vip/2018/08/28/%E7%AC%AC%E4%B8%83%E5%91%A8-%E5%8F%AF%E8%A7%86%E5%8C%96/)
 ### 项目
 
 - P1 [探索未来气候发展趋势](https://github.com/CapAllen/DAND_VIP_Class/blob/master/%E9%A1%B9%E7%9B%AE/%E9%A1%B9%E7%9B%AE%E4%B8%80.md)
