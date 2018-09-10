@@ -27,6 +27,7 @@
 - [第七周-可视化](http://www.capallen.top/dand-vip/2018/08/28/%E7%AC%AC%E4%B8%83%E5%91%A8-%E5%8F%AF%E8%A7%86%E5%8C%96/)
 - [第八周-TMDb数据分析](http://www.capallen.top/dand-vip/2018/09/05/%E7%AC%AC%E5%85%AB%E5%91%A8-TMDB%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/)
 - [第八周-FBI枪支数据分析](http://www.capallen.top/dand-vip/2018/09/08/%E7%AC%AC%E5%85%AB%E5%91%A8-FBI%E6%9E%AA%E6%94%AF%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/)
+- [第九周-P3阶段总结](http://www.capallen.top/dand-vip/2018/09/09/%E7%AC%AC%E4%B9%9D%E5%91%A8-P3%E9%98%B6%E6%AE%B5%E6%80%BB%E7%BB%93/)
 
 ### 项目
 
