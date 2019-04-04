@@ -5,7 +5,7 @@
 
 此项目主要包含以下内容：
 
-- **每周导学**：以周为单位，设定学习内容与学习目标，引导学生按进度完成课程，总共十三周。
+- **每周导学**：以周为单位，设定学习内容与学习目标，引导学生按进度完成课程，总共十四周。
 - **项目**：按照项目，整理项目背景、要求以及学生的项目文件，总共四个项目。
 - **问题梳理**：以阶段为单位，总结本阶段学生提问的问题。
 - **拓展参考**：以电子书或链接的形式提供课程以外的相关知识参考。
@@ -45,3 +45,4 @@
 - [统计思维：程序员数学之概率统计](https://github.com/CapAllen/DAND_VIP_Class/blob/master/%E6%8B%93%E5%B1%95%E5%8F%82%E8%80%83/%E7%BB%9F%E8%AE%A1%E6%80%9D%E7%BB%B4%EF%BC%9A%E7%A8%8B%E5%BA%8F%E5%91%98%E6%95%B0%E5%AD%A6%E4%B9%8B%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1.pdf)
 - [Python for Data Analysis, 2nd Edition](https://github.com/CapAllen/DAND_VIP_Class/blob/master/%E6%8B%93%E5%B1%95%E5%8F%82%E8%80%83/Python%20for%20Data%20Analysis%2C%202nd%20Edition.pdf)
 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名 4.0 国际许可协议</a>进行许可。
