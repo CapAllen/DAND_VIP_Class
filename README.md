@@ -15,7 +15,7 @@
 
 - [第一周-项目一](https://www.capallen.top/2018/07/16/2018-7-16-%E7%AC%AC%E4%B8%80%E5%91%A8-%E9%A1%B9%E7%9B%AE%E4%B8%80/)
 - [第二周-python基础](https://www.capallen.top/2018/07/23/2018-7-23-%E7%AC%AC%E4%BA%8C%E5%91%A8%E5%AF%BC%E5%AD%A6/)
-- [第三周](http://www.capallen.top/dand-vip/2018/08/01/%E7%AC%AC%E4%B8%89%E5%91%A8%E5%AF%BC%E5%AD%A6/)
+- [第三周-Numpy&Pandas](https://www.capallen.top/2018/12/12/2018-12-12-%E7%AC%AC%E4%B8%89%E5%91%A8-Numpy&Pandas%E5%9F%BA%E7%A1%80/)
 - [第四周-项目二](https://www.capallen.top/2018/08/06/2018-8-6-%E7%AC%AC%E5%9B%9B%E5%91%A8%E5%AF%BC%E5%AD%A6/)
 - [第五周-阶段总结&项目二优化](https://www.capallen.top/2018/08/13/2018-8-13-%E7%AC%AC%E4%BA%94%E5%91%A8%E5%AF%BC%E5%AD%A6/)
 - [第六周-数据分析过程](https://www.capallen.top/2018/08/19/2018-8-19-%E7%AC%AC%E5%85%AD%E5%91%A8-1-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E8%BF%87%E7%A8%8B/)
