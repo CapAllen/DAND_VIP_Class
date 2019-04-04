@@ -6,37 +6,32 @@
 此项目主要包含以下内容：
 
 - **每周导学**：以周为单位，设定学习内容与学习目标，引导学生按进度完成课程，总共十四周。
-- **项目**：按照项目，整理项目背景、要求以及学生的项目文件，总共四个项目。
-- **问题梳理**：以阶段为单位，总结本阶段学生提问的问题。
-- **拓展参考**：以电子书或链接的形式提供课程以外的相关知识参考。
-
-> **每周导学**和**问题梳理**现已转移至博客。
-
-**声明：本项目版权及使用权归Udacity及各位助教、学生所有，禁止转载。**
+- **Uday-Notebook**：优达日所用Notebook。
+- **Uday-Video**：优达日录屏视频。
 
 ## 文件快链
 
 ### 每周导学
 
-- [第一周](http://t.cn/RgtNtjB)
-- [第二周](https://github.com/CapAllen/DAND_VIP_Class/blob/master/%E6%AF%8F%E5%91%A8%E5%AF%BC%E5%AD%A6/%E7%AC%AC%E4%BA%8C%E5%91%A8.md)
+- [第一周-项目一](https://www.capallen.top/2018/07/16/2018-7-16-%E7%AC%AC%E4%B8%80%E5%91%A8-%E9%A1%B9%E7%9B%AE%E4%B8%80/)
+- [第二周-python基础](https://www.capallen.top/2018/07/23/2018-7-23-%E7%AC%AC%E4%BA%8C%E5%91%A8%E5%AF%BC%E5%AD%A6/)
 - [第三周](http://www.capallen.top/dand-vip/2018/08/01/%E7%AC%AC%E4%B8%89%E5%91%A8%E5%AF%BC%E5%AD%A6/)
-- [第三周习题代码详解](http://www.capallen.top/dand-vip/2018/08/04/%E7%AC%AC%E4%B8%89%E5%91%A8%E4%B9%A0%E9%A2%98%E8%AF%A6%E8%A7%A3/)
-- [第四周](http://www.capallen.top/dand-vip/2018/08/06/%E7%AC%AC%E5%9B%9B%E5%91%A8%E5%AF%BC%E5%AD%A6/)
-- [第五周](http://www.capallen.top/dand-vip/2018/08/13/%E7%AC%AC%E4%BA%94%E5%91%A8%E5%AF%BC%E5%AD%A6/)
-- [第六周-数据分析过程](http://www.capallen.top/dand-vip/2018/08/19/%E7%AC%AC%E5%85%AD%E5%91%A8-1-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E8%BF%87%E7%A8%8B/)
-- [第六周-Pandas数据融合](http://www.capallen.top/dand-vip/2018/08/21/%E7%AC%AC%E5%85%AD%E5%91%A8-2-%E6%95%B0%E6%8D%AE%E8%9E%8D%E5%90%88/)
-- [第七周-可视化](http://www.capallen.top/dand-vip/2018/08/28/%E7%AC%AC%E4%B8%83%E5%91%A8-%E5%8F%AF%E8%A7%86%E5%8C%96/)
-- [第八周-TMDb数据分析](http://www.capallen.top/dand-vip/2018/09/05/%E7%AC%AC%E5%85%AB%E5%91%A8-TMDB%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/)
-- [第八周-FBI枪支数据分析](http://www.capallen.top/dand-vip/2018/09/08/%E7%AC%AC%E5%85%AB%E5%91%A8-FBI%E6%9E%AA%E6%94%AF%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/)
-- [第九周-P3阶段总结](http://www.capallen.top/dand-vip/2018/09/09/%E7%AC%AC%E4%B9%9D%E5%91%A8-P3%E9%98%B6%E6%AE%B5%E6%80%BB%E7%BB%93/)
+- [第四周-项目二](https://www.capallen.top/2018/08/06/2018-8-6-%E7%AC%AC%E5%9B%9B%E5%91%A8%E5%AF%BC%E5%AD%A6/)
+- [第五周-阶段总结&项目二优化](https://www.capallen.top/2018/08/13/2018-8-13-%E7%AC%AC%E4%BA%94%E5%91%A8%E5%AF%BC%E5%AD%A6/)
+- [第六周-数据分析过程](https://www.capallen.top/2018/08/19/2018-8-19-%E7%AC%AC%E5%85%AD%E5%91%A8-1-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E8%BF%87%E7%A8%8B/)
+- [第六周-Pandas数据融合](https://www.capallen.top/2018/08/21/2018-8-21-%E7%AC%AC%E5%85%AD%E5%91%A8-2-%E6%95%B0%E6%8D%AE%E8%9E%8D%E5%90%88/)
+- [第七周-可视化](https://www.capallen.top/2018/08/28/2018-8-28-%E7%AC%AC%E4%B8%83%E5%91%A8-Matplotlib%E5%8F%AF%E8%A7%86%E5%8C%96/)
+- [第八周-TMDb数据分析](https://www.capallen.top/2018/09/05/2018-9-5-%E7%AC%AC%E5%85%AB%E5%91%A8-TMDB%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/)
+- [第八周-FBI枪支数据分析](https://www.capallen.top/2018/09/08/2018-9-7-%E7%AC%AC%E5%85%AB%E5%91%A8-FBI%E6%9E%AA%E6%94%AF%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/)
+- [第九周-P3阶段总结](https://www.capallen.top/2018/09/09/2018-9-9-%E7%AC%AC%E4%B9%9D%E5%91%A8-P3%E9%98%B6%E6%AE%B5%E6%80%BB%E7%BB%93/)
+- [第十周-统计学基础](https://www.capallen.top/2018/09/13/2018-9-13-%E7%AC%AC%E5%8D%81%E5%91%A8-%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80/)
+- [第十一周-统计学进阶](https://www.capallen.top/2018/09/24/2018-9-24-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%91%A8-%E7%BB%9F%E8%AE%A1%E5%AD%A6%E8%BF%9B%E9%98%B6/)
+- [第十二周-项目四](https://www.capallen.top/2018/09/26/2018-9-26-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%91%A8-%E9%A1%B9%E7%9B%AE%E5%9B%9B/)
+- [SQL应知应会](https://www.capallen.top/2018/10/06/2018-10-6-SQL%E5%BA%94%E7%9F%A5%E5%BA%94%E4%BC%9A/)
 
-### 项目
+### Uday-Notebook
 
-- P1 [探索未来气候发展趋势](https://github.com/CapAllen/DAND_VIP_Class/blob/master/%E9%A1%B9%E7%9B%AE/%E9%A1%B9%E7%9B%AE%E4%B8%80.md)
-- P2 探索美国共享单车数据：
-- P3 探索数据集：
-- P4 分析A/B测试结果：
+链接：https://share.weiyun.com/5vqk0WD 
 
 ### 拓展参考
 
