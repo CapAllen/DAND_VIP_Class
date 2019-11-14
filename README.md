@@ -1,14 +1,12 @@
-# 数据分析入门VIP班导学及项目
+# 数据分析入门班导学及项目
 ## 说明
 
-为方便[Udacity](https://cn.udacity.com/)数据分析入门VIP班学员和助教查阅及共享而建立此项目，之后会不断地进行迭代、更新和沉淀，践行Udacity**自律、共享、探索**的价值观。  
+为方便[Udacity](https://cn.udacity.com/)数据分析入门班学员和助教查阅及共享而建立此项目，之后会不断地进行迭代、更新和沉淀，践行Udacity**自律、共享、探索**的价值观。  
 
 此项目主要包含以下内容：
 
 - **每周导学**：以周为单位，设定学习内容与学习目标，引导学生按进度完成课程，总共十四周。
-- **每周答疑**：以周为单位，汇总学员问题。
-- **Uday-Notebook**：优达日所用Notebook。
-- **Uday-Video**：优达日录屏视频。
+- **Q&A**：不定期更新，汇总学员问题。
 
 ## 文件快链
 
@@ -30,17 +28,9 @@
 - [第十二周-项目四](https://www.capallen.top/2018/%E9%A1%B9%E7%9B%AE%E5%9B%9B.html)
 - [SQL应知应会](https://www.capallen.top/2018/SQL-basic.html)
 
-### 每周答疑
+### Q&A
 
-- [第一周(2019-11-03更新)](./每周答疑/第一周(2019-11-3更新).md)
-
-### Uday-Notebook
-
-链接：https://share.weiyun.com/5vqk0WD 
-
-### Uday-Video
-
-登陆[Classin](http://www.eeo.cn/cn/index.html)查看班级录播课。
+- [第一期(2019-11-03更新)](./每周答疑/第一周(2019-11-3更新).md)
 
 ### 拓展参考
 
