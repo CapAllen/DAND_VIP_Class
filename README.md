@@ -12,6 +12,7 @@
 
 ### 每周导学
 
+- [先导-Anaconda、JupyterNotebook与Spyder安装与使用](https://www.capallen.top/2018/Anaconda%E9%85%8D%E7%BD%AE.html)
 - [第一周-项目一](https://www.capallen.top/2018/%E7%AC%AC%E4%B8%80%E5%91%A8-%E9%A1%B9%E7%9B%AE%E4%B8%80.html)
 - [第二周-python基础](https://www.capallen.top/2018/python%E5%85%A5%E9%97%A8.html)
 - [第三周-Numpy&Pandas](https://www.capallen.top/2018/Numpy%E5%92%8CPandas%E5%9F%BA%E7%A1%80.html)
